@@ -1,10 +1,10 @@
 import subprocess
 import os
 # Path to your ABAQUS executable
-abaqus_path = r'C:\SIMULIA\Commands\abaqus.bat'  # Replace with your path
+abaqus_path = r'C:\SIMULIA\Commands\abaqus.bat'  
 
 # Path to your Python script
-script_path = 'master.py'  # Replace with your path
+script_path = 'master.py'  
 
 #damage_index = [1,9,11,13,14,7,2,32,33,43,44,45,56,58,21,20,15]
 #damage_index = [181,189,187,185,184,183,188,182,186]
